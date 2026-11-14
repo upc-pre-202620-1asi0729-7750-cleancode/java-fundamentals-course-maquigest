@@ -99,7 +99,7 @@ No se necesita instalar Java ni utilizar un entorno de desarrollo local.
 | 1 | Tu primer programa en Java | 6 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-01/Main.java) | [Ver](completed-examples/lesson-01/Main.java) |
 | 2 | Datos de un videojuego | 7 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-02/Main.java) | [Ver](completed-examples/lesson-02/Main.java) |
 | 3 | Decide con condiciones | 7 min | [Video](https://www.youtube.com/watch?v=mADb7_NH7FU)| [JDoodle](https://www.jdoodle.com/ia/tb7f-gqq5-9mnb) | [Abrir](starter-files/lesson-03/Main.java) | [Ver](completed-examples/lesson-03/Main.java) |
-| 4 | Repite y consulta datos | 8 min | Pendiente | [JDoodle](https://www.jdoodle.com/ia/td97-bgu4-kszc) | [Abrir](starter-files/lesson-04/Main.java) | [Ver](completed-examples/lesson-04/Main.java) |
+| 4 | Repite y consulta datos | 8 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [JDoodle](https://www.jdoodle.com/ia/td97-bgu4-kszc) | [Abrir](starter-files/lesson-04/Main.java) | [Ver](completed-examples/lesson-04/Main.java) |
 | 5 | Organiza el programa con funciones | 8 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-05/Main.java) | [Ver](completed-examples/lesson-05/Main.java) |
 | 6 | Crea clases y objetos | 8 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-06/Main.java) | [Ver](completed-examples/lesson-06/Main.java) |
 | 7 | Proyecto final: registro de videojuegos | 10 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-07/Main.java) | [Ver](completed-examples/lesson-07/Main.java) |
