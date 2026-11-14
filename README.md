@@ -7,6 +7,8 @@ El curso está dirigido a estudiantes de 12 a 17 años sin experiencia previa. T
 
 ## Contenido
 
+## Contenido
+
 1. [Descripción](#descripción)
 2. [Resultado final](#resultado-final)
 3. [Público objetivo](#público-objetivo)
@@ -16,6 +18,10 @@ El curso está dirigido a estudiantes de 12 a 17 años sin experiencia previa. T
 7. [¿Qué aprenderás?](#qué-aprenderás)
 8. [Lecciones](#lecciones)
 9. [Cómo utilizar el curso](#cómo-utilizar-el-curso)
+   - [Ver el video](#1-ver-el-video)
+   - [Abrir el starter](#2-abrir-el-starter)
+   - [Ejecutar en JDoodle](#3-ejecutar-en-jdoodle)
+   - [Consultar la solución](#4-consultar-la-solución)
 10. [Proyecto final](#proyecto-final)
 11. [Estructura del repositorio](#estructura-del-repositorio)
 12. [Recursos adicionales](#recursos-adicionales)
