@@ -93,14 +93,14 @@ En la versión final, el usuario selecciona una cantidad de 1 a 10 videojuegos. 
 
 | Lección | Objetivo principal | Duración | Video | JDoodle | Starter | Solución |
 |---|---|---:|---|---|---|---|
-| 1. Tu primer programa en Java | Reconocer `Main`, `main` y `println` | 6 min | [Video](https://www.youtube.com/watch?v=Ssa_jED6wS0&list=PLW97nISQnUFw) | [JDoodle](https://www.jdoodle.com/ia/4ttu-g4xr-mfcb) | [Abrir](starter-files/lesson-01/Main.java) | [Ver](completed-examples/lesson-01/Main.java) |
-| 2. Datos de un videojuego | Utilizar variables, operadores y `Scanner` | 7 min | [Video](https://www.youtube.com/watch?v=vF-GGdO5HrQ&list=PLW97nISQnUFw&index=2) | [JDoodle](https://www.jdoodle.com/ga/fmdp-rhwa-zxv9) | [Abrir](starter-files/lesson-02/Main.java) | [Ver](completed-examples/lesson-02/Main.java) |
-| 3. Decide con condiciones | Aplicar comparaciones y decisiones | 7 min | [Video](https://www.youtube.com/watch?v=mADb7_NH7FU) | [JDoodle](https://www.jdoodle.com/ia/tb7f-gqq5-9mnb) | [Abrir](starter-files/lesson-03/Main.java) | [Ver](completed-examples/lesson-03/Main.java) |
-| 4. Repite y consulta datos | Recorrer arrays y mantener un menú con `while` | 8 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [JDoodle](https://www.jdoodle.com/ia/td97-bgu4-kszc) | [Abrir](starter-files/lesson-04/Main.java) | [Ver](completed-examples/lesson-04/Main.java) |
-| 5. Organiza el programa con funciones | Usar parámetros, `return` y `void` | 8 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-05/Main.java) | [Ver](completed-examples/lesson-05/Main.java) |
-| 6. Crea clases y objetos | Definir una clase, constructor y objetos | 8 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-06/Main.java) | [Ver](completed-examples/lesson-06/Main.java) |
-| 7. Proyecto final | Integrar validación, objetos y encapsulación | 10 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-07/Main.java) | [Ver](completed-examples/lesson-07/Main.java) |
-| | **Duración total** | **54 min** | | | | |
+| 1. Tu primer programa en Java | Reconocer `Main`, `main` y `println` | 7 min | [Video](https://www.youtube.com/watch?v=Ssa_jED6wS0&list=PLW97nISQnUFw) | [JDoodle](https://www.jdoodle.com/ia/4ttu-g4xr-mfcb) | [Abrir](starter-files/lesson-01/Main.java) | [Ver](completed-examples/lesson-01/Main.java) |
+| 2. Datos de un videojuego | Utilizar variables, operadores y `Scanner` | 18 min | [Video](https://www.youtube.com/watch?v=vF-GGdO5HrQ&list=PLW97nISQnUFw&index=2) | [JDoodle](https://www.jdoodle.com/ga/fmdp-rhwa-zxv9) | [Abrir](starter-files/lesson-02/Main.java) | [Ver](completed-examples/lesson-02/Main.java) |
+| 3. Decide con condiciones | Aplicar comparaciones y decisiones | 5 min | [Video](https://www.youtube.com/watch?v=mADb7_NH7FU) | [JDoodle](https://www.jdoodle.com/ia/tb7f-gqq5-9mnb) | [Abrir](starter-files/lesson-03/Main.java) | [Ver](completed-examples/lesson-03/Main.java) |
+| 4. Repite y consulta datos | Recorrer arrays y mantener un menú con `while` | 5 min | [Video](https://www.youtube.com/watch?v=D3v9VCcyGG4) | [JDoodle](https://www.jdoodle.com/ia/td97-bgu4-kszc) | [Abrir](starter-files/lesson-04/Main.java) | [Ver](completed-examples/lesson-04/Main.java) |
+| 5. Organiza el programa con funciones | Usar parámetros, `return` y `void` | 5 min | [Video](https://www.youtube.com/watch?v=OHr96MJXP40&list=PLW97nISQnUFw&index=5) | [JDoodle](https://www.jdoodle.com/ga/kck6-4zk7-qzxj) | [Abrir](starter-files/lesson-05/Main.java) | [Ver](completed-examples/lesson-05/Main.java) |
+| 6. Crea clases y objetos | Definir una clase, constructor y objetos | 4 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-06/Main.java) | [Ver](completed-examples/lesson-06/Main.java) |
+| 7. Proyecto final | Integrar validación, objetos y encapsulación | 5 min | Pendiente | Pendiente | [Abrir](starter-files/lesson-07/Main.java) | [Ver](completed-examples/lesson-07/Main.java) |
+| | **Duración total** | **49 min** | | | | |
 
 
 ## 8. Prácticas en línea
